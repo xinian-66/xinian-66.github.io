@@ -89,7 +89,7 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-威胁情报:
+friends:
   [
     { title: "安恒星图", href: "https://starmap.dbappsecurity.com.cn/" },
     { title: "VenusEye威胁情报中心", href: "https://www.venuseye.com.cn/" },
