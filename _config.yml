@@ -91,12 +91,12 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "安恒星图", href: "https://starmap.dbappsecurity.com.cn/" },
+    { title: "VenusEye威胁情报中心", href: "https://www.venuseye.com.cn/" },
+    { title: "NTI-威胁情报中心", href: "https://ti.nsfocus.com/" },
+    { title: "奇安信威胁情报中心", href: "https://ti.qianxin.com/" },
+    { title: "360安全大脑", href: "https://ti.360.cn/" },
+    { title: "微步在线", href: "https://x.threatbook.com/" },
+    { title: "RedQueen威胁情报中心", href: "https://redqueen.tj-un.com/IntelHome.html" },
+    { title: "安天-威胁情报中心", href: "https://www.antiycloud.com/" },
   ]
